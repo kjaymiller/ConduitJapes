@@ -9,7 +9,7 @@ Check out [Conduit] on RelayFM
 Become a [Conduit] member
 
 ## Current Japes
-[Is this the secret project](/is-this-the-secret-project/)
+[Is this the secret project](./is-this-the-secret-project/)
 
 ## Need Help
 
