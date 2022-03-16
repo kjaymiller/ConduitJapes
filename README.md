@@ -12,7 +12,8 @@ Become a [Conduit] member
 [Is this the secret project](/is-this-the-secret-project/)
 
 ## Need Help
-The CONDUIT APP
-The CONDUIT SOUNDBOARD
+
+- The CONDUIT APP
+- The CONDUIT SOUNDBOARD
 
 [Conduit]: https://relay.fm/conduit
