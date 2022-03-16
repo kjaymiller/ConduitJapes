@@ -1,0 +1,9 @@
+fastapi
+
+# Linting
+black
+isort
+pylint
+
+# testing
+pytest
